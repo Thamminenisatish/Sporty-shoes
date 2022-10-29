@@ -64,7 +64,7 @@ Sprints and Tasks.
 ## How to run the program
 •	clone project
 
-o	clone git : git clone https://github.com/MujtabaMohsin/Sporty-Shoes-Store
+o	clone git : git clone https://github.com/Thamminenisatish/Sporty-shoes
 
 •	Import the “main\webapp\resources\database\sporty-shoes.sql” file to your database administration tool.
 
